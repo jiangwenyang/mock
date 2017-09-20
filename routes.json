@@ -1,0 +1,4 @@
+{
+  "/qhdjg\\?method=:method&*": "/:method",
+  "/qhdjg\\?method=:method": "/:method"
+}
